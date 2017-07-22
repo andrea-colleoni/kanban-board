@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "titolo": "Primo task",
+    "testo": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.",
+    "dataApertura": 1483228800000,
+    "dataUltimaModifica": 1485907200000,
+    "importanza": 1,
+    "stato": 2,
+    "editMode": false
+  },
+  {
+    "id": 2,
+    "titolo": "Secondo task",
+    "testo": "Secondo task.",
+    "dataApertura": 1488326400000,
+    "dataUltimaModifica": 1491004800000,
+    "importanza": 1,
+    "stato": 1,
+    "editMode": false
+  },
+  {
+    "id": 3,
+    "titolo": "Nuovo task",
+    "testo": "Fare subito....",
+    "dataApertura": "21/7/2017, 16:21:37",
+    "dataUltimaModifica": "21/7/2017, 16:21:37",
+    "importanza": 0,
+    "stato": 1,
+    "editMode": false
+  },
+  {
+    "id": 4,
+    "titolo": "Nuovo task",
+    "testo": "Descrizione del task",
+    "dataApertura": "21/7/2017, 16:21:54",
+    "dataUltimaModifica": "21/7/2017, 16:21:54",
+    "importanza": 3,
+    "stato": 0,
+    "editMode": false
+  },
+  {
+    "id": 5,
+    "titolo": "Nuovo task",
+    "testo": "Descrizione del task",
+    "dataApertura": "21/7/2017, 16:22:01",
+    "dataUltimaModifica": "21/7/2017, 16:22:01",
+    "importanza": 4,
+    "stato": 3,
+    "editMode": false
+  }
+]
